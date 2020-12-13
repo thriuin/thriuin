@@ -5,7 +5,10 @@ Currently I'm learning more and more about [Solr](https://lucene.apache.org/solr
 
 ![Ross' GitHub Statistics](https://github-readme-stats.vercel.app/api?username=thriuin&count_private=true&show_icons=true&theme=dark)
 
+<div style="font-size: 50%;">Thanks [anuraghazra](https://github.com/anuraghazra/github-readme-stats) for the stats card</div>
+
 <!--
+
 **thriuin/thriuin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
