@@ -1,4 +1,9 @@
-### Hi there 👋
+### Open Government, Source Developer at Treasury Board Secretariat of Canada ###
+
+I'm currently working on new [Solr based search application](https://github.com/thriuin/oc_search) for [Canada's Open Government Portal](https://open.canada.ca).
+Currently I'm learning more and more about [Solr](https://lucene.apache.org/solr/) and how to make more use of all its capabilities to make the Government of Canada's site even more accessible. I'm looking to collaborate on a custom python [Solr client library](https://github.com/thriuin/SolrClient) that I'm using to create Solr applications.
+
+![Ross' GitHub Statistics](https://github-readme-stats.vercel.app/api?username=thriuin&count_private=true&show_icons=true&theme=dark)
 
 <!--
 **thriuin/thriuin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +18,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+👋
 -->
