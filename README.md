@@ -5,7 +5,7 @@ Currently I'm learning more and more about [Solr](https://lucene.apache.org/solr
 
 ![Ross' GitHub Statistics](https://github-readme-stats.vercel.app/api?username=thriuin&count_private=true&show_icons=true&theme=dark)
 
-<div style="font-size: 50%;">Thanks [anuraghazra](https://github.com/anuraghazra/github-readme-stats) for the stats card</div>
+Stats card courtesy [anuraghazra](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 
