@@ -27,7 +27,7 @@ Currently I'm learning more and more about [Solr](https://lucene.apache.org/solr
   
 ![Open Canada Search Version 2](https://github-readme-stats.vercel.app/api/pin/?username=open-data&repo=oc_search&theme=dark)
 
-![Open Canada Search Version 1](https://github-readme-stats.vercel.app/api/pin/?username=open-data&repo=ogc_search&theme=dark)
+![Python Solr Client](https://github-readme-stats.vercel.app/api/pin/?username=open-data&repo=SolrClient&theme=dark)
 
 <!--
 
