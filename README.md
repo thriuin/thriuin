@@ -7,7 +7,27 @@ Currently I'm learning more and more about [Solr](https://lucene.apache.org/solr
 
 ![Ross' GitHub Statistics](https://github-readme-stats.vercel.app/api?username=thriuin&count_private=true&show_icons=true&theme=dark)
 
-Stats card courtesy [anuraghazra](https://github.com/anuraghazra/github-readme-stats)
+<!-- Stats card courtesy [anuraghazra](https://github.com/anuraghazra/github-readme-stats) -->
+
+
+### Languages and Tools: ###
+
+![Ross' GitHub Code Usage](https://github-readme-stats.vercel.app/api/top-langs?username=thriuin&show_icons=true&locale=en&layout=compact&theme=dark)
+
+<a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
+<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.rust-lang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
+
+
+### Top Repositories ###
+  
+![Open Canada Search Version 2](https://github-readme-stats.vercel.app/api/pin/?username=open-data&repo=oc_search&theme=dark)
+
+![Open Canada Search Version 1](https://github-readme-stats.vercel.app/api/pin/?username=open-data&repo=ogc_search&theme=dark)
 
 <!--
 
