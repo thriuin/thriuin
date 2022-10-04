@@ -3,16 +3,21 @@
 I'm currently working on new [Solr based search application](https://github.com/thriuin/oc_search) for [Canada's Open Government Portal](https://open.canada.ca).
 Currently I'm learning more and more about [Solr](https://lucene.apache.org/solr/) and how to make more use of all its capabilities to make the Government of Canada's site even more accessible. I'm looking to collaborate on a custom python [Solr client library](https://github.com/thriuin/SolrClient) that I'm using to create Solr applications.
 
-[![Visits Badge](https://badges.pufler.dev/visits/thriuin/thriuin)](https://badges.pufler.dev)
+![Profile View Counter](https://komarev.com/ghpvc/?username=thriuin)
 
+<!--
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Your_GitHub_Username&show_icons=true)
 ![Ross' GitHub Statistics](https://github-readme-stats.vercel.app/api?username=thriuin&count_private=true&show_icons=true&theme=dark)
 
-<!-- Stats card courtesy [anuraghazra](https://github.com/anuraghazra/github-readme-stats) -->
+ Stats card courtesy [anuraghazra](https://github.com/anuraghazra/github-readme-stats) 
+ -->
 
 
 ### Languages and Tools: ###
 
+<!--
 ![Ross' GitHub Code Usage](https://github-readme-stats.vercel.app/api/top-langs?username=thriuin&show_icons=true&locale=en&layout=compact&theme=dark)
+-->
 
 <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
@@ -22,12 +27,14 @@ Currently I'm learning more and more about [Solr](https://lucene.apache.org/solr
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.rust-lang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
 
+<!--
 
 ### Top Repositories ###
   
 ![Open Canada Search Version 2](https://github-readme-stats.vercel.app/api/pin/?username=open-data&repo=oc_search&theme=dark)
 
 ![Python Solr Client](https://github-readme-stats.vercel.app/api/pin/?username=open-data&repo=SolrClient&theme=dark)
+-->
 
 <!--
 
